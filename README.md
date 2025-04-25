@@ -1,16 +1,22 @@
-# kisiler_uygulamasi
+# 👥 People Application
 
-A new Flutter project.
+Bu uygulama, kullanıcıların kişi bilgilerini ekleyebildiği, listeleyebildiği ve yönetebildiği basit bir "People Manager" uygulamasıdır.
 
-## Getting Started
+## 🧰 Özellikler
 
-This project is a starting point for a Flutter application.
+- ➕ Yeni kişi ekleme
+- 📋 Mevcut kişileri listeleme
+- 🗑️ Kişileri silme
+- 🖊️ Güncelleme / düzenleme (varsa eklenebilir)
+- 🎨 Basit ve sade arayüz
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Kullanılan Teknolojiler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Kurulum ve Kullanım
+
+ Reponun bir kopyası:
+
+```bash
+git clone https://github.com/safaibrahim9/People-Applicat-on.git
